@@ -1,0 +1,12 @@
+{
+    "https://connect.informatik.hs-fulda.de/": {
+        "server_url": "https://connect.informatik.hs-fulda.de/",
+        "filename": "/Users/kiraeichhorn/Library/CloudStorage/GoogleDrive-chountrx3@gmail.com/Andere Computer/mac/data-science-fulda/1-FrAp/Project/projectvscode",
+        "app_url": "https://connect.informatik.hs-fulda.de/content/974b7bfb-4dc7-4142-950e-d672d21ced66/",
+        "app_id": "974b7bfb-4dc7-4142-950e-d672d21ced66",
+        "app_guid": "974b7bfb-4dc7-4142-950e-d672d21ced66",
+        "title": "Book Dashboard ",
+        "app_mode": "python-streamlit",
+        "app_store_version": 1
+    }
+}
